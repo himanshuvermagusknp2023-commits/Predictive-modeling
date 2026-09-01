@@ -20,8 +20,13 @@ git clone [https://github.com/himanshuvermagusknp2023-commits/Predictive-modelin
 cd Predictive-modeling
 pip install -r requirements.txt
 
+Generate data and train
 
+python generate_data.py
+python train.py
 
+Run Fast API endpoint
+python app.py
 
 
 
