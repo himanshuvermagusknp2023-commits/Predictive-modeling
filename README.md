@@ -12,6 +12,13 @@ An end-to-end Machine Learning pipeline and constrained optimization system that
 ---
 
 ## System Architecture
+## Quickstart
+
+### 1. Installation
+```bash
+git clone [https://github.com/himanshuvermagusknp2023-commits/Predictive-modeling.git](https://github.com/himanshuvermagusknp2023-commits/Predictive-modeling.git)
+cd Predictive-modeling
+pip install -r requirements.txt
 
 
 
